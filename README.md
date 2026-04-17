@@ -36,7 +36,7 @@ I enjoy building modern web applications using **Next.js, Node.js, and TypeScrip
 ### ☁️ Deployment & Hosting
 <p>
   <img src="https://skillicons.dev/icons?i=vercel" />
-  <img src="https://avatars.githubusercontent.com/u/22267928?s=200&v=4" height="48" alt="Render"/>
+  <img src="https://raw.githubusercontent.com/render-oss/render-docs/main/static/img/logo.svg" height="48" alt="Render"/>
 </p>
 
 ### 🧪 Tools & Design
