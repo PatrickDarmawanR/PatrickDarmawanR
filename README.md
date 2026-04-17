@@ -23,27 +23,27 @@ I enjoy building modern web applications using **Next.js, Node.js, and TypeScrip
 ### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" height="48" alt="Strapi"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" height="48"/>
 </p>
 
 ### 🗄️ Database & Backend Services
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
   <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="48" alt="Supabase"/>
-  <img src="https://neon.tech/favicon.ico" height="48" alt="NeonDB"/>
+  <img src="https://avatars.githubusercontent.com/u/77690634?s=200&v=4" height="48"/>
 </p>
 
 ### ☁️ Deployment & Hosting
 <p>
   <img src="https://skillicons.dev/icons?i=vercel" />
-  <img src="https://seeklogo.com/images/R/render-logo-DA9F0F3F1B-seeklogo.com.png" height="48" alt="Render"/>
+  <img src="https://avatars.githubusercontent.com/u/22267928?s=200&v=4" height="48"/>
 </p>
 
 ### 🧪 Tools & Design
 <p>
   <img src="https://skillicons.dev/icons?i=postman,git,github,figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="Jira"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/miro/miro-original.svg" height="48" alt="Miro"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" height="48"/>
 </p>
 
 ---
