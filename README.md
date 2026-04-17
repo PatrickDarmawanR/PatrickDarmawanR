@@ -26,7 +26,7 @@ I enjoy building modern web applications using **Next.js, Node.js, and TypeScrip
   <span style="color:white; font-size:14px;">Strapi</span>
 </p>
 
-### 🗄️ Database & Backend Services
+### 🗄️ Database
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
   <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="48" alt="Supabase"/>
