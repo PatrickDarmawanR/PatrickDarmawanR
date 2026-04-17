@@ -16,36 +16,35 @@ I enjoy building modern web applications using **Next.js, Node.js, and TypeScrip
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-
-![React](https://img.shields.io/badge/React-blue)
-![Next.js](https://img.shields.io/badge/Next.js-black)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap" />
+</p>
 
 ### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" height="48" alt="Strapi"/>
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![Express.js](https://img.shields.io/badge/Express.js-gray)
-![Strapi](https://img.shields.io/badge/Strapi-blueviolet)
-![PHP](https://img.shields.io/badge/PHP-purple)
+### 🗄️ Database & Backend Services
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="48" alt="Supabase"/>
+  <img src="https://neon.tech/favicon.ico" height="48" alt="NeonDB"/>
+</p>
 
-### 🗄️ Database
+### ☁️ Deployment & Hosting
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://seeklogo.com/images/R/render-logo-DA9F0F3F1B-seeklogo.com.png" height="48" alt="Render"/>
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-![MySQL](https://img.shields.io/badge/MySQL-orange)
-![NeonDB](https://img.shields.io/badge/NeonDB-black)
-
-### 🧪 Tools & Others
-
-![Postman](https://img.shields.io/badge/Postman-orange)
-![Git](https://img.shields.io/badge/Git-red)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![Figma](https://img.shields.io/badge/Figma-pink)
-![Jira](https://img.shields.io/badge/Jira-blue)
+### 🧪 Tools & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,git,github,figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="Jira"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/miro/miro-original.svg" height="48" alt="Miro"/>
+</p>
 
 ---
 
@@ -118,9 +117,9 @@ I enjoy building modern web applications using **Next.js, Node.js, and TypeScrip
 
 ## 📊 GitHub Stats
 
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickDarmawanR\&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickDarmawanR\&layout=compact)
 
 
 ---
