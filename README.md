@@ -23,7 +23,7 @@ I enjoy building modern web applications using **Next.js, Node.js, and TypeScrip
 ### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/strapi/strapi-original.svg" height="48" alt="Strapi"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/strapi/strapi-original.svg" height="48" alt="Strapi"/>
 </p>
 
 ### 🗄️ Database & Backend Services
