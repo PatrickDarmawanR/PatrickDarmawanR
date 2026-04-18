@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-Fresh graduate in Computer Science from Bina Nusantara University with hands-on experience in full-stack development and UI/UX design.
+Bachelor of Computer Science from Bina Nusantara University with hands-on experience in full-stack development and UI/UX design.
 
 I enjoy building modern web applications using **Next.js, Node.js, and TypeScript**, and I’m especially interested in **real-time systems and scalable backend architecture**.
 
