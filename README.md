@@ -115,15 +115,6 @@ I enjoy building modern web applications using **Next.js, Node.js, and TypeScrip
 
 ---
 
-## 📊 GitHub Stats
-
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickDarmawanR\&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickDarmawanR\&layout=compact)
-
-
----
-
 ## 📫 Contact Me
 
 * 📧 Email: [pdr242003@gmail.com](mailto:pdr242003@gmail.com)
