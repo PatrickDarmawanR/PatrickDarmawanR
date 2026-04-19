@@ -87,13 +87,14 @@ I enjoy building modern web applications using **Next.js, Node.js, and TypeScrip
 
 ## 🚀 Featured Projects
 
-### 🍔 Nganteen — Food Ordering App
+### 🍔 Nganteen — Food Ordering Web App
 
 * Fullstack web app for campus food ordering
 * Real-time ordering system concept
 * Built with Next.js, TypeScript, Drizzle, PostgreSQL
 
 👉 Role: Fullstack Developer & UI/UX Designer
+
 🌐 Link: https://nganteen.vercel.app/
 
 ---
